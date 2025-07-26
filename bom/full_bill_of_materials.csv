@@ -1,0 +1,43 @@
+Component,Material/Spec,Qty (Per Tower),Unit,Notes
+Tower Outer Shell,Vulcanized recycled rubber composite,1,Full wrap,Heat-formed panels or molds
+Structural Reinforcement,Carbon fiber rods,120,meters,Vertical + radial layout
+Outer Coating,Marine epoxy base + Polyurethane topcoat,1,Full exterior,3-layer minimum
+Hydrophobic Layer,Nano-silica spray or silicone wrap,1,Full exterior,Optional for fog-prone coasts
+
+Foundation Concrete,C40/50 high-strength marine concrete,50,cubic meters,Baseplate cast
+Seabed Grouting,Marine epoxy grout,600,kg,Filled around rebar and anchor shafts
+Basalt/CFRP Panels (optional),Marine structural plates,25,sqm,Wave-shedding armor
+
+Lightning Rods (x3),Tungsten-Copper Alloy (WCu 70/30),3,rods,110m length per rod
+Rod Apex Node,Titanium Grade 5 triform plate,1,unit,Precision-forged
+Rod Anchors,316L Stainless,3,bases,Vibration damped rod housing
+
+Tesla Coil Wire,Litz Wire,18 AWG x 50-strand,2100,meters,Multiple coils across 3 layers
+Coil Formers,Acrylic/Fiberglass composite tubes,6,tubes,2 per tier, flame-resistant
+High Voltage Capacitors,Polypropylene film,9,units,3 per tier
+Bypass Caps,Ceramic HV,9,units,Surge absorption layer
+Tesla Capacitor Frame,Non-conductive polymer mount,3,frames,Custom-cut
+
+Faraday Cage Mesh,Conductive copper mesh,15,sqm,Surrounds internal coil stack
+Spark Gaps,Tungsten rod air gap terminals,6,pairs,2 per tier
+Arc Diverters,Graphite-titanium pads,3,units,Mounted below rod fusion shaft
+
+Supercapacitors,Graphene/aluminum ultracap,3,banks,Strike energy cache
+Rectifiers,Silicon carbide HV diodes,9,modules,3-stage full-wave bridge
+Inverters,DC-to-AC HV isolation units,3,units,Per tower output conversion
+Step-down Transformer,3-phase marine grade,1,unit,Mounted near base exit
+
+Access Hardware,Anti-corrosion ladder + safety cage,1,shaft kit,Interior climb + exit
+Desiccant Chamber Packs,Silica-based maintenance inserts,20,units,Humidity control
+Sealant Kits,Marine silicone + conductor epoxy,Varies,buckets,General bonding + isolation
+Fasteners,Marine A4 Stainless bolts/nuts,200+,sets,Throughout tower assembly
+
+Dry Chamber LED Strip,IP68-rated,3,meters,Maintenance lighting
+Conduit Ports,IP68 sealed polymer,6,ports,Cable egress + venting
+Nitrogen Purge Valve (optional),Steel N2 injection node,1,valve,Coil chamber pressure control
+
+Floating Platform (if used),HDPE + foam core floating dock,1,platform,Launch + tow deployment
+Tow Pylons,Marine chain or synthetics,Varies,meters,Anchoring prior to sink-in-place
+
+TOTAL SYSTEM MATERIALS,,,,,
+,,,"~$600K–$1.2M USD / tower depending on local sourcing",Excludes labor and logistics
